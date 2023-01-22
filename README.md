@@ -1,5 +1,5 @@
 # Powershell Graphics. 🎦
-![](https://img.shields.io/badge/GRAPHICS-_Made_By_Jh1sc-purple?style=for-the-badge)
+![](https://img.shields.io/badge/ASCII_GRAPHICS-_Made_By_Jh1sc-purple?style=for-the-badge)
 
 
 ## Requirements 🧹
