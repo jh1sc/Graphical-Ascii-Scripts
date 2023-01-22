@@ -11,10 +11,13 @@
 
 
 ## Description 📶
-
+- This GitHub repository contains a collection of files that utilize 3D, FluidSim, and RayCaster technologies to create a visually stunning and performant simulation. The simulation is displayed through the use of a PowerShell console interface and runs at a smooth 60 frames per second (Most of them). The repository also includes a template file and other resources to aid in the development and customization of the simulation. This project was created as a hobby.
 
 
 ## Useful Sources ✅
+- https://github.com/onelonecoder | https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA
+- https://youtu.be/QMYfkOtYYlg
+- https://www.youtube.com/@TheCodingTrain
 
 
 
